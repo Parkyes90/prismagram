@@ -285,3 +285,5 @@ typings/
 .idea/misc.xml 제거할 예정
 .idea/modules.xml 제거할 예정
 .idea/prismagram.iml 제거할 예정
+
+generated
